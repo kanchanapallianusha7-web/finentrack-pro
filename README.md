@@ -33,7 +33,7 @@ A full-stack web application designed to help users efficiently track and manage
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login](Screenshots/login.png)
+![Login](Screenshots/login.PNG)
 
 ### 📊 Dashboard
 ![Dashboard](Screenshots/dashboard.PNG)
