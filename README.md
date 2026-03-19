@@ -33,19 +33,19 @@ A full-stack web application designed to help users efficiently track and manage
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login](Screenshots/login.png)
+![Login](https://raw.githubusercontent.com/your-username/repo-name/main/login.png)
 
 ### 📊 Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard][dashboard](https://raw.githubusercontent.com/your-username/repo-name/main/dashboard.png)
 
 ### 📈 Graphs / Analytics
-![Graphs](Screenshots/graphs.png)
+![Graphs][graphs](https://raw.githubusercontent.com/your-username/repo-name/main/graphs.png)
 
 ### 💳 Transactions
-![Transactions](Screenshots/transactions.png)
+![Transactions][transactions](https://raw.githubusercontent.com/your-username/repo-name/main/transactions.png)
 
 ### ⚙️ Settings
-![Settings](Screenshots/settings.png)
+![Settings][settings](https://raw.githubusercontent.com/your-username/repo-name/main/settings.png)
 
 ## 📌 Future Enhancements
 - Backend integration with database
