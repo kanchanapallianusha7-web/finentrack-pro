@@ -33,19 +33,19 @@ A full-stack web application designed to help users efficiently track and manage
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login](https://raw.githubusercontent.com/your-username/repo-name/main/login.png)
+![Login](https://raw.githubusercontent.com/kanchanapallianusha7/finentrack-pro/main/login.png)
 
 ### 📊 Dashboard
-![Dashboard][dashboard](https://raw.githubusercontent.com/your-username/repo-name/main/dashboard.png)
+[dashboard](https://raw.githubusercontent.com/kanchanapallianusha7/finentrack-pro/main/dashboard.png)
 
 ### 📈 Graphs / Analytics
-![Graphs][graphs](https://raw.githubusercontent.com/your-username/repo-name/main/graphs.png)
+[graphs](https://raw.githubusercontent.com/kanchanapallianusha7/finentrack-pro/main/graphs.png)
 
 ### 💳 Transactions
-![Transactions][transactions](https://raw.githubusercontent.com/your-username/repo-name/main/transactions.png)
+[transactions](https://raw.githubusercontent.com/kanchanapallianusha7/finentrack-pro/main/transactions.png)
 
 ### ⚙️ Settings
-![Settings][settings](https://raw.githubusercontent.com/your-username/repo-name/main/settings.png)
+[settings](https://raw.githubusercontent.com/kanchanapallianusha7/finentrack-pro/main/settings.png)
 
 ## 📌 Future Enhancements
 - Backend integration with database
