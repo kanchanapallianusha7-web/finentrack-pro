@@ -36,16 +36,16 @@ A full-stack web application designed to help users efficiently track and manage
 ![Login](Screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](Screenshots/DashBoard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### 📈 Graphs / Analytics
-![Graphs](Screenshots/Graphs.png)
+![Graphs](Screenshots/graphs.png)
 
 ### 💳 Transactions
-![Transactions](Screenshots/Transactions.png)
+![Transactions](Screenshots/transactions.png)
 
 ### ⚙️ Settings
-![Settings](Screenshots/Settings.png)
+![Settings](Screenshots/settings.png)
 
 ## 📌 Future Enhancements
 - Backend integration with database
